@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: EmmetZC/one-click-hugo-cms
+
+publish_mode: editorial_workflow
